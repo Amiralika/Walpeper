@@ -72,36 +72,36 @@
     "دانلود2": "https://s19.picofile.com/file/8435747026/IMG_20210606_222854_976.jpg"
   },
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/67a8fdf918aa56a769ce8c8813b33480jpg",
-    "دانلود2": "https://dl.dir.freefiremobile.com/common/web_event/hash/67a8fdf918aa56a769ce8c8813b33480jpg"
+    "عکس2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/pc/072.jpg",
+    "دانلود2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/pc/072.jpg"
   },
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/49194c224903ef5e5f6c35ed6a0d1144jpg",
-    "دانلود2": "https://dl.dir.freefiremobile.com/common/web_event/hash/49194c224903ef5e5f6c35ed6a0d1144jpg"
+    "عکس2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/pc/071.jpg",
+    "دانلود2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/pc/071.jpg"
   },
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/f31aac6ff418c3d02e0acd8dccd9ec01jpg",
-    "دانلود2": "https://dl.dir.freefiremobile.com/common/web_event/hash/f31aac6ff418c3d02e0acd8dccd9ec01jpg"
+    "عکس2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/pc/069.jpg",
+    "دانلود2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/pc/069.jpg"
   },
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/6cc9bcd593613bb31286220fd88502a0jpg",
-    "دانلود2": "https://dl.dir.freefiremobile.com/common/web_event/hash/6cc9bcd593613bb31286220fd88502a0jpg"
+    "عکس2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/pc/065.jpg",
+    "دانلود2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/pc/065.jpg"
   },
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/8b05322178be460c12af34c39bcbda1cjpg",
-    "دانلود2": "https://dl.dir.freefiremobile.com/common/web_event/hash/8b05322178be460c12af34c39bcbda1cjpg"
+    "عکس2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/pc/063.jpg",
+    "دانلود2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/pc/063.jpg"
   },
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/5142720882c2715c6db2b59647a181fejpg",
-    "دانلود2": "https://dl.dir.freefiremobile.com/common/web_event/hash/5142720882c2715c6db2b59647a181fejpg"
+    "عکس2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/pc/060.jpg",
+    "دانلود2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/pc/060.jpg"
   },
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/64ef538f0e59b41bcb8844c2b230acd3jpg",
-    "دانلود2": "https://dl.dir.freefiremobile.com/common/web_event/hash/64ef538f0e59b41bcb8844c2b230acd3jpg"
+    "عکس2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/pc/058.jpg",
+    "دانلود2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/pc/058.jpg"
   },
   {
-    "عکس2": "https://dl.dir.freefiremobile.com/common/web_event/hash/c5f3b1ad6f918c3cae858fd56041db8fjpg",
-    "دانلود2": "https://dl.dir.freefiremobile.com/common/web_event/hash/c5f3b1ad6f918c3cae858fd56041db8fjpg"
+    "عکس2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/pc/053.jpg",
+    "دانلود2": "https://freefiremobile-a.akamaihd.net/common/web_event/officialwebsite/wallpapers/pc/053.jpg"
   },
   {
     "عکس2": "http://freefiremobile-a.akamaihd.net/ffwebsite/images/wallpaper/pc/007.jpg",
